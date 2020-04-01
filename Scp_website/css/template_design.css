@@ -1,0 +1,60 @@
+body{
+    background-color: paleturquoise;
+}
+
+
+.container {
+    background-color: whitesmoke;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    margin: auto;
+    margin-top: 15px;
+    width: 100%;           
+} 
+
+.containerp{
+    background-color: rgb(237, 240, 64);
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    margin: auto;
+    margin-top: 6px;
+    width: 90%;    
+    border: 1px solid #000000;
+    padding-left: 5%;
+    padding-right: 5%;
+}  
+
+H1{
+    color: blue;
+}  
+
+h3{
+    text-size-adjust: 30px;
+    color: blue;
+    text-align: center;
+}
+
+h4{
+    color: rgb(25, 25, 248);
+}
+
+h5{
+    color: rgb(25, 25, 248)
+}
+
+h6{
+color: rgb(3, 161, 252);
+}
+
+p7{
+    color: rgb(255, 255, 255);
+}
+
+.centerpicture{
+    text-align: center;
+    color: rgb(3, 161, 252);
+}
+
+img{    
+    width: 100%;
+}
